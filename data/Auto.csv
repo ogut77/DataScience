@@ -31,7 +31,7 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,year,origin,name
 27,4,97,88,2130,14.5,71,3,datsun pl510
 28,4,140,90,2264,15.5,71,1,chevrolet vega 2300
 25,4,113,95,2228,14,71,3,toyota corona
-25,4,98,,2046,19,71,1,ford pinto
+25,4,98,?,2046,19,71,1,ford pinto
 19,6,232,100,2634,13,71,1,amc gremlin
 16,6,225,105,3439,15.5,71,1,plymouth satellite custom
 17,6,250,100,3329,15.5,71,1,chevrolet chevelle malibu
@@ -125,7 +125,7 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,year,origin,name
 20,6,156,122,2807,13.5,73,3,toyota mark ii
 11,8,350,180,3664,11,73,1,oldsmobile omega
 20,6,198,95,3102,16.5,74,1,plymouth duster
-21,6,200,,2875,17,74,1,ford maverick
+21,6,200,?,2875,17,74,1,ford maverick
 19,6,232,100,2901,16,74,1,amc hornet
 15,6,250,100,3336,17,74,1,chevrolet nova
 31,4,79,67,1950,19,74,3,datsun b210
@@ -353,7 +353,7 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,year,origin,name
 34.4,4,98,65,2045,16.2,81,1,ford escort 4w
 29.9,4,98,65,2380,20.7,81,1,ford escort 2h
 33,4,105,74,2190,14.2,81,2,volkswagen jetta
-34.5,4,100,,2320,15.8,81,2,renault 18i
+34.5,4,100,?,2320,15.8,81,2,renault 18i
 33.7,4,107,75,2210,14.4,81,3,honda prelude
 32.4,4,108,75,2350,16.8,81,3,toyota corolla
 32.9,4,119,100,2615,14.8,81,3,datsun 200sx
