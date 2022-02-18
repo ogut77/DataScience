@@ -26,10 +26,14 @@ Data Processing 2
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/DataProcessing2.ipynb ]
 
-
 Data Processing Case- House Price
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/HousePrice.ipynb ]
+
+Homework 2
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework2.ipynb ]
+
 
 Linear Regression and Regulization Techniques (Lasso, Ridge, Elastic Net)
 
