@@ -43,7 +43,7 @@ Linear Regression- Estimation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/LREst.ipynb ]
 
-Decision Trees- Rando Forest
+Decision Trees- Random Forest
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Loan.ipynb ]
 
