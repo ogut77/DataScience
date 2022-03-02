@@ -57,7 +57,7 @@ Homework 3
 
 Classification Metrics
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework3.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/ClassificationMetrics.ipynb ]
 
 Cross Validation
 
