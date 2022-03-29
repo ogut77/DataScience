@@ -1,6 +1,4 @@
-Syllabus
 
-[https://github.com/ogut77/DataScience/blob/main/SyllabusDS2.pdf]
 
 Python Tutorial
 
