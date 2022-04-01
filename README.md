@@ -79,4 +79,4 @@ Homework 5
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-https://colab.research.google.com/github/abcom-mltutorials/Optuna/blob/main/Optuna%20Tuning.ipynb
+https://colab.research.google.com/github/ogut77/DataScience/blob/main/SVMLRXG.ipynb
