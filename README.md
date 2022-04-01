@@ -80,3 +80,7 @@ Homework 5
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 https://colab.research.google.com/github/ogut77/DataScience/blob/main/SVMLRXG.ipynb
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+https://colab.research.google.com/github/ogut77/DataScience/blob/main/LR%2BkNN%2BNB%2BSVM.ipynb
