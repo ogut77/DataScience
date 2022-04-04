@@ -93,3 +93,12 @@ Rerences
 Pearson VS Spearman
 
 https://cmdlinetips.com/2019/08/how-to-compute-pearson-and-spearman-correlation-in-python/#:~:text=Pearson%20correlation%20assumes%20that%20the,a%20non%2Dparametric%20correlation%20measure.
+
+Bias Variance Tradeoff 
+
+https://ml.berkeley.edu/blog/posts/crash-course/part-4/
+
+Decision Tree and Ensemble Methods
+
+https://ml.berkeley.edu/blog/posts/crash-course/part-5/
+
