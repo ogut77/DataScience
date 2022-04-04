@@ -88,4 +88,8 @@ https://colab.research.google.com/github/ogut77/DataScience/blob/main/LR%2BkNN%2
 https://colab.research.google.com/github/ogut77/DataScience/blob/main/SVMLRXG.ipynb
 
 
+Rerences
 
+Pearson VS Spearman
+
+https://cmdlinetips.com/2019/08/how-to-compute-pearson-and-spearman-correlation-in-python/#:~:text=Pearson%20correlation%20assumes%20that%20the,a%20non%2Dparametric%20correlation%20measure.
