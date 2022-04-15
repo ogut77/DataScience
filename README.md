@@ -18,7 +18,7 @@ Homework 1
 
 Data Processing 1
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/DataProcessing1.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/kmeansIris.ipynb ]
 
 Data Processing 2
 
@@ -100,6 +100,16 @@ https://colab.research.google.com/github/ogut77/DataScience/blob/main/PCA2.ipynb
 Homework 6
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework6.ipynb ]
+
+Cluster-1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/ClShopping.ipynb ]
+
+Cluster-2
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/ClusterAuto.ipynb ]
+
+Cluster-3
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/ClShopping.ipynb ]
+
 
 Additional Resources:
 
