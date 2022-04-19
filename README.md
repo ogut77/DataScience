@@ -114,6 +114,14 @@ Cluster-3
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/kmeansIris.ipynb ]
 
+Cluster-3
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/kmeansIris.ipynb ]
+
+Stationarity Test
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Stationary.ipynb ]
+
 
 Additional Resources:
 
