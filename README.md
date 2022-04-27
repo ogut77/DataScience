@@ -122,6 +122,9 @@ Stationarity Test
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Stationary.ipynb ]
 
+Moving Averages- Single, Double, Triple Holt Winters
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Copy_of_HW.ipynb ]
 
 Additional Resources:
 
