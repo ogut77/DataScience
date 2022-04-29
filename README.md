@@ -122,9 +122,21 @@ Stationarity Test
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Stationary.ipynb ]
 
-Moving Averages- Single, Double, Triple Holt Winters
+Moving Averages- Exponential Smoothings
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Copy_of_HW.ipynb ]
+
+Holt Winters +TBATS -1 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Copy_of_HW.ipynb ]
+
+Holt Winters +TBATS -2
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Store.ipynb ]
+
+Holt Winters +TBATS -3
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Champagne.ipynb ]
 
 Additional Resources:
 
