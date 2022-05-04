@@ -142,6 +142,10 @@ ARIMA 2
 
 Additional Resources:
 
+R for Forecasting https://otexts.com/fpp3/
+
+https://github.com/ogut77/DataScience/blob/main/RforForecasting.ipynb
+
 Pearson VS Spearman
 
 https://cmdlinetips.com/2019/08/how-to-compute-pearson-and-spearman-correlation-in-python/#:~:text=Pearson%20correlation%20assumes%20that%20the,a%20non%2Dparametric%20correlation%20measure.
