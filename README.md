@@ -158,7 +158,7 @@ Decision Tree and Ensemble Methods
 
 https://ml.berkeley.edu/blog/posts/crash-course/part-5/
 
-Customer Life Time Value and Segmentation 
+Customer Life Time Value
 
 https://analyticsindiamag.com/a-hands-on-tutorial-on-customer-lifetime-value-cltv-prediction/
 
