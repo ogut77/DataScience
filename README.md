@@ -162,3 +162,6 @@ Customer Life Time Value and Segmentation (Clustering)
 
 https://analyticsindiamag.com/a-hands-on-tutorial-on-customer-lifetime-value-cltv-prediction/
 
+Code for CLTV
+
+https://colab.research.google.com/github/ogut77/DataScience/blob/main/CLTV.ipynb
