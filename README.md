@@ -165,3 +165,7 @@ https://analyticsindiamag.com/a-hands-on-tutorial-on-customer-lifetime-value-clt
 Code for CLTV
 
 https://colab.research.google.com/github/ogut77/DataScience/blob/main/CLTV.ipynb
+
+SARIMAX  Example-New York Taki Demand 
+
+https://towardsdatascience.com/newyork-taxi-demand-forecasting-with-sarimax-using-weather-data-d46c041f3f9c
