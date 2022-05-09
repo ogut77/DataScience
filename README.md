@@ -141,7 +141,7 @@ ARIMA 2
 
 SARIMA
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Sarima.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/SARIMA.ipynb ]
 
 ETS -1
 
