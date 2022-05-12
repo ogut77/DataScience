@@ -161,7 +161,7 @@ SARIMA+HW+ETS+TBATS
 
 Homework 7
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework5.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework7.ipynb ]
 
 
 Additional Resources:
