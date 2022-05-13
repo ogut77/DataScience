@@ -163,6 +163,10 @@ Homework 7
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework7.ipynb ]
 
+Review Final
+
+https://github.com/ogut77/DataScience/blob/main/ReviewFinal.doc
+
 
 Additional Resources:
 
@@ -201,4 +205,8 @@ https://curiousily.com/posts/movie-review-sentiment-analysis-with-naive-bayes/
 Algortihm Behing XGBoost
 
 https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502
+
+M6 Financial Forecasting Competition
+
+https://m6competition.com/
 
