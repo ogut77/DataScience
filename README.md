@@ -210,3 +210,9 @@ M6 Financial Forecasting Competition
 
 https://m6competition.com/
 
+Sample Student Projects
+
+https://www.galitshmueli.com/student-projects
+
+
+
