@@ -170,9 +170,9 @@ https://github.com/ogut77/DataScience/blob/main/ReviewFinal.doc
 
 Additional Resources:
 
-R for Forecasting https://otexts.com/fpp3/
+Python Tutorial https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/
 
-https://github.com/ogut77/DataScience/blob/main/RforForecasting.ipynb
+R for Forecasting https://otexts.com/fpp3/      https://github.com/ogut77/DataScience/blob/main/RforForecasting.ipynb
 
 Pearson VS Spearman
 
