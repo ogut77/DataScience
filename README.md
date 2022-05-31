@@ -194,27 +194,16 @@ Code for CLTV
 
 https://colab.research.google.com/github/ogut77/DataScience/blob/main/CLTV.ipynb
 
-SARIMAX  Example-New York Taki Demand 
+SARIMAX  Example-New York Taki Demand https://towardsdatascience.com/newyork-taxi-demand-forecasting-with-sarimax-using-weather-data-d46c041f3f9c
 
-https://towardsdatascience.com/newyork-taxi-demand-forecasting-with-sarimax-using-weather-data-d46c041f3f9c
+Naive Bayes for Text Classification  https://curiousily.com/posts/movie-review-sentiment-analysis-with-naive-bayes/
 
-Naive Bayes for Text Classification
+Algortihm Behing XGBoost  https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502
 
-https://curiousily.com/posts/movie-review-sentiment-analysis-with-naive-bayes/
+M6 Financial Forecasting Competition  https://m6competition.com/
 
-Algortihm Behing XGBoost
+Sample Student Projects  https://www.galitshmueli.com/student-projects
 
-https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502
-
-M6 Financial Forecasting Competition
-
-https://m6competition.com/
-
-Sample Student Projects
-
-https://www.galitshmueli.com/student-projects
-
-Kaggle Winner Solution
-https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
+Kaggle Winner Solution  https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
 
 
