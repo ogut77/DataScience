@@ -87,7 +87,12 @@ https://colab.research.google.com/github/ogut77/DataScience/blob/main/LR%2BkNN%2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 https://colab.research.google.com/github/ogut77/DataScience/blob/main/SVMLRXG.ipynb
 
- PCA-1
+AutoML Example- Auto Gluon
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+https://colab.research.google.com/github/ogut77/DataScience/blob/main/AutoGluon.ipynb
+
+PCA-1
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 https://colab.research.google.com/github/ogut77/DataScience/blob/main/PCA1.ipynb
