@@ -199,7 +199,7 @@ Code for CLTV
 
 https://colab.research.google.com/github/ogut77/DataScience/blob/main/CLTV.ipynb
 
-SARIMAX  Example-New York Taki Demand https://towardsdatascience.com/newyork-taxi-demand-forecasting-with-sarimax-using-weather-data-d46c041f3f9c
+SARIMAX  Example-New York Taxi Demand https://towardsdatascience.com/newyork-taxi-demand-forecasting-with-sarimax-using-weather-data-d46c041f3f9c
 
 Naive Bayes for Text Classification  https://curiousily.com/posts/movie-review-sentiment-analysis-with-naive-bayes/
 
