@@ -211,7 +211,7 @@ Sample Student Projects  https://www.galitshmueli.com/student-projects
 
 Kaggle Winner Solution  https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
 
-Comparison of ML Algorithm : Boosting Technqiues ranks first top 3
+Comparison of ML Algorithm : Boosting Technqiues ranks first top 3 rank
 
 https://mljar.com/machine-learning/compare-ml-algorithms/
 
