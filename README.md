@@ -219,5 +219,6 @@ Exponentional Smoothing in R
 
 https://afit-r.github.io/ts_exp_smoothing
 
-ETS b in R 2
-https://robjhyndman.com/eindhoven/2-1-StateSpace.pdf
+Forecasting Using R-Eindoven-Slides
+
+https://robjhyndman.com/seminars/eindhoven/
