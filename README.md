@@ -215,3 +215,8 @@ Comparison of ML Algorithm : Boosting Technqiues ranks first top 3 rank
 
 https://mljar.com/machine-learning/compare-ml-algorithms/
 
+Exponentional Smoothing in R
+
+https://afit-r.github.io/ts_exp_smoothing
+
+
