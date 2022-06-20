@@ -222,3 +222,6 @@ https://afit-r.github.io/ts_exp_smoothing
 Forecasting Using R-Eindoven-Slides
 
 https://robjhyndman.com/seminars/eindhoven/
+
+30 days of Python
+https://github.com/Asabeneh/30-Days-Of-Python
