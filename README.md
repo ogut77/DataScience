@@ -227,6 +227,6 @@ https://robjhyndman.com/seminars/eindhoven/
 https://github.com/Asabeneh/30-Days-Of-Python
 
 Pickle
-[Open In Colab]https://colab.research.google.com/github/ogut77/DataScience/Pickle.ipynb ]
+[Open In Colab]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Pickle.ipynb ]
 
 
