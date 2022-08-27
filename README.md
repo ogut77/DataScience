@@ -229,4 +229,6 @@ https://github.com/Asabeneh/30-Days-Of-Python
 Pickle
 [Open In Colab]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Pickle.ipynb ]
 
+AutoArima and AutoETS
+https://colab.research.google.com/github/nixtla/statsforecast/blob/main/nbs/examples/Getting_Started_with_Auto_Arima_and_ETS.ipynb#scrollTo=nRySBmMskIps
 
