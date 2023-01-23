@@ -1,8 +1,8 @@
 
 
-Python Tutorial
+Python Programming Basics
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/PythonTutorial.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/PythonProgramming.ipynb ]
 
 Python Tutorial Version 2
 
