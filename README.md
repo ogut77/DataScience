@@ -29,9 +29,6 @@ Data Processing 2 Answer
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/DataProcessing2Ans.ipynb ]
 
 
-Data Processing Case- House Price
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/HousePrice.ipynb ]
 
 Homework 2
 
