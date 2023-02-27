@@ -63,10 +63,10 @@ Classification Metrics
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/ClassificationMetrics.ipynb ]
 
 Boosting- Random Forest-Decision Trees- Classification
-[![Open In Colab](https://colab.research.google.com/github/ogut77/DataScience/blob/main/BostingRFDTClassifier.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ogut77/DataScience/blob/main/BostingRFDTClassifier.ipynb]
 
 Boosting- Random Forest-Decision Trees- Regression
-[![Open In Colab](ttps://colab.research.google.com/github/ogut77/DataScience/blob/main/BoostingRFDTRegressor.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ogut77/DataScience/blob/main/BoostingRFDTRegressor.ipynb]
 
 Cross Validation
 
