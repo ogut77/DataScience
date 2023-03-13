@@ -80,11 +80,11 @@ Cross Validation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/CrossValidation.ipynb ]
 
 
-Boosting Classifiers- XGBoost, Light GBM, CatBoost, GradientBoosting
+Hyperparameter Optimization Techniques and Libraries-Boosting Classifiers- XGBoost, Light GBM, CatBoost, GradientBoosting
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/BoostingClassifiers.ipynb ]
 
-Boosting Regression- XGBoost, Light GBM, CatBoost, GradientBoosting
+Hyperparameter Optimization Techniques and Libraries-Boosting Regression- XGBoost, Light GBM, CatBoost, GradientBoosting
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/BoostingRegression.ipynb ]
 
