@@ -190,7 +190,7 @@ Homework 8
 
 Electricity Load Forecast
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/ElectricityLoadForecasting.ipynb.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/ElectricityLoadForecasting.ipynb ]
 
 
 
