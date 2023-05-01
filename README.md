@@ -156,13 +156,10 @@ Holt Winters +TBATS -2
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Champagne.ipynb ]
 
-ARIMA 1
+ARIMA 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Arima1.ipynb ]
 
-ARIMA 2 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Arima2.ipynb ]
 
 SARIMA
 
