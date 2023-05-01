@@ -148,14 +148,6 @@ Moving Averages- Exponential Smoothings
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Copy_of_HW.ipynb ]
 
-Holt Winters +TBATS -1
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Store.ipynb ]
-
-Holt Winters +TBATS -2
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Champagne.ipynb ]
-
 ARIMA 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Arima1.ipynb ]
@@ -164,6 +156,15 @@ ARIMA
 SARIMA
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/SARIMA.ipynb ]
+
+Holt Winters +TBATS -1
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Store.ipynb ]
+
+Holt Winters +TBATS -2
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Champagne.ipynb ]
+
 
 ETS -1
 
