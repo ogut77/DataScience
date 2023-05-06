@@ -173,7 +173,7 @@ SARIMA+HW+ETS+TBATS
 
 Homework 8
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework7.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework8.ipynb ]
 
 Electricity Load Forecast
 
