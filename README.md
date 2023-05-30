@@ -246,3 +246,6 @@ AutoArima and AutoETS
 https://colab.research.google.com/github/nixtla/statsforecast/blob/main/nbs/examples/Getting_Started_with_Auto_Arima_and_ETS.ipynb#scrollTo=nRySBmMskIps
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://github.com/ogut77/DataScience/blob/main/Getting_Started_with_Auto_Arima_and_ETS.ipynb]
+
+Comparision of Clustering Algorithm
+https://github.com/ogut77/DataScience/blob/main/ClusteringAlgo.jpg
