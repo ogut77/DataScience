@@ -198,6 +198,8 @@ https://cmdlinetips.com/2019/08/how-to-compute-pearson-and-spearman-correlation-
 
 Bias Variance Tradeoff 
 
+https://twitter.com/svpino/status/1743311795123781849
+
 https://ml.berkeley.edu/blog/posts/crash-course/part-4/
 
 Decision Tree and Ensemble Methods
