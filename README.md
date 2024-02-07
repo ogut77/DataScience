@@ -198,7 +198,7 @@ https://cmdlinetips.com/2019/08/how-to-compute-pearson-and-spearman-correlation-
 
 Bias Variance Tradeoff 
 
-
+https://mem.ai/p/F3YoW84xKC8D5k3OPXem
 
 https://ml.berkeley.edu/blog/posts/crash-course/part-4/
 
