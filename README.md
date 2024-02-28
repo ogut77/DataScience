@@ -251,3 +251,7 @@ https://colab.research.google.com/github/nixtla/statsforecast/blob/main/nbs/exam
 
 Comparision of Clustering Algorithm
 https://github.com/ogut77/DataScience/blob/main/ClusteringAlgo.jpg
+
+Cross Validation
+https://www.kaggle.com/code/satishgunjal/tutorial-k-fold-cross-validation
+
