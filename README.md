@@ -206,6 +206,10 @@ Decision Tree and Ensemble Methods
 
 https://ml.berkeley.edu/blog/posts/crash-course/part-5/
 
+Logistic Regression
+https://twitter.com/mdancho84/status/1753098317116981265/
+
+
 Customer Life Time Value
 
 https://analyticsindiamag.com/a-hands-on-tutorial-on-customer-lifetime-value-cltv-prediction/
