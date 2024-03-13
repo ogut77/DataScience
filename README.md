@@ -209,6 +209,8 @@ https://ml.berkeley.edu/blog/posts/crash-course/part-5/
 Logistic Regression
 https://twitter.com/mdancho84/status/1753098317116981265/
 
+AutoGluon
+https://www.kaggle.com/competitions/playground-series-s4e1/discussion/472496#2631487
 
 Customer Life Time Value
 
