@@ -261,3 +261,6 @@ https://github.com/ogut77/DataScience/blob/main/ClusteringAlgo.jpg
 Cross Validation
 https://www.kaggle.com/code/satishgunjal/tutorial-k-fold-cross-validation
 
+Neural Network Classifirer
+https://michael-fuchs-python.netlify.app/2021/02/03/nn-multi-layer-perceptron-classifier-mlpclassifier/
+
