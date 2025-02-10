@@ -5,11 +5,11 @@ https://github.com/ogut77/DataScience/blob/main/DataScienceSpring2023.pdf
 
 Python Programming Basics
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/PythonProgramming.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/PythonTutorial.ipynb ]
 
 Python Programming Basics Answer
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/PythonTutorialV3.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/PythonTutorialAns.ipynb ]
 
 Homework 1
 
