@@ -9,7 +9,7 @@ Python Programming Basics
 
 Python Programming Basics Answer
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/PythonTutorialAns.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/PythonTutorialAns.ipynb]
 
 Homework 1
 
