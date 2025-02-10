@@ -1,7 +1,7 @@
 
 Syllabus
 
-https://github.com/ogut77/DataScience/blob/main/DataScienceSpring2023.pdf
+https://github.com/ogut77/DataScience/blob/main/DataScienceSpring2025.pdf
 
 Python Programming Basics
 
