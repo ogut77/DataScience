@@ -207,6 +207,11 @@ https://mem.ai/p/F3YoW84xKC8D5k3OPXem
 
 https://ml.berkeley.edu/blog/posts/crash-course/part-4/
 
+TabPFN and Boosting Methods
+
+
+https://threadreaderapp.com/thread/1877088937849520336.html?utm_campaign=topunroll
+
 Decision Tree and Ensemble Methods
 
 https://ml.berkeley.edu/blog/posts/crash-course/part-5/
