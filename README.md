@@ -216,9 +216,16 @@ CatBoost
 
 https://x.com/predict_addict/status/1685397161536573441/photo/1
 
-Decision Tree and Ensemble Methods
+https://github.com/ogut77/DataScience/blob/main/CatBoost.jpeg
+https://github.com/ogut77/DataScience/blob/main/CatBoost2.jpeg
+https://github.com/ogut77/DataScience/blob/main/CatBoost3.jpeg
 
-https://ml.berkeley.edu/blog/posts/crash-course/part-5/
+GRadient Boosting
+
+https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502
+
+https://randomrealizations.com/posts/gradient-boosting-machine-from-scratch/
+
 
 Logistic Regression
 https://twitter.com/mdancho84/status/1753098317116981265/
