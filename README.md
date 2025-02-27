@@ -212,6 +212,10 @@ TabPFN and Boosting Methods
 
 https://threadreaderapp.com/thread/1877088937849520336.html?utm_campaign=topunroll
 
+CatBoost
+
+https://x.com/predict_addict/status/1685397161536573441/photo/1
+
 Decision Tree and Ensemble Methods
 
 https://ml.berkeley.edu/blog/posts/crash-course/part-5/
