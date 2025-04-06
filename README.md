@@ -75,6 +75,10 @@ Homework 4
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework4V5.ipynb 
 
+Homework 5
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework5V5.ipynb ]
+
 Cross Validation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/CrossValidation.ipynb ]
@@ -88,9 +92,10 @@ Hyperparameter Optimization Techniques and Libraries-Boosting Regression- XGBoos
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/BoostingRegression.ipynb ]
 
-Homework 5
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework5V5.ipynb ]
+Homework 6
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework6V5.ipynb ]
 
 Other Classification Methods( Logistic Regression-kNN-Naive Bayes- Suppor Vector Machine ) and Boosting Classifier
 
@@ -118,9 +123,7 @@ https://colab.research.google.com/github/ogut77/DataScience/blob/main/PCA1.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 https://colab.research.google.com/github/ogut77/DataScience/blob/main/PCA2.ipynb
 
-Homework 6
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework6V5.ipynb ]
 
 Homework 7
 
