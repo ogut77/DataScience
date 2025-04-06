@@ -120,7 +120,7 @@ https://colab.research.google.com/github/ogut77/DataScience/blob/main/PCA2.ipynb
 
 Homework 6
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework6.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/DataScience/blob/main/Homework6V5.ipynb ]
 
 Homework 7
 
