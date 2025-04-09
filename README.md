@@ -149,6 +149,9 @@ Cluster-4
 
 https://pyquantnews.com/build-state-of-the-art-portfolios-machine-learning/
 
+https://threadreaderapp.com/thread/1903418770930200916.html
+
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] https://github.com/ogut77/DataScience/blob/main/ClusterPortfolio.ipynb)]
 
 Stationarity Test
