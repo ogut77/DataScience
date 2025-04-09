@@ -145,7 +145,7 @@ Cluster-3
 
 Cluster-4
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][https://colab.research.google.com/github/ogut77/DataScience/blob/main/StockCluster.ipynb.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][https://colab.research.google.com/github/ogut77/DataScience/blob/main/StockCluster.ipynb]
 
 https://pyquantnews.com/build-state-of-the-art-portfolios-machine-learning/
 
