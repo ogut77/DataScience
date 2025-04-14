@@ -242,6 +242,10 @@ https://twitter.com/mdancho84/status/1753098317116981265/
 AutoGluon
 https://www.kaggle.com/competitions/playground-series-s4e1/discussion/472496#2631487
 
+Different Type of Clustering 
+
+https://medium.com/data-science/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+
 Customer Life Time Value
 
 https://analyticsindiamag.com/a-hands-on-tutorial-on-customer-lifetime-value-cltv-prediction/
