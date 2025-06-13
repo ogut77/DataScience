@@ -301,4 +301,7 @@ https://michael-fuchs-python.netlify.app/2021/02/03/nn-multi-layer-perceptron-cl
 Machine Learinnig in Finance Notes
 https://github.com/PJalgotrader
 
+Clustering in PyCaret
+
+https://medium.com/@HeCanThink/clustering-with-pycaret-a-hands-on-example-92999de0f69a
 
