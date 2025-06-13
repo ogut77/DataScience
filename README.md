@@ -298,7 +298,7 @@ https://www.kaggle.com/code/satishgunjal/tutorial-k-fold-cross-validation
 Neural Network Classifirer
 https://michael-fuchs-python.netlify.app/2021/02/03/nn-multi-layer-perceptron-classifier-mlpclassifier/
 
-Machine Learinnig in Finanace Notes
+Machine Learinnig in Finance Notes
 https://github.com/PJalgotrader
 
 
